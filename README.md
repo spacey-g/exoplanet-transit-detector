@@ -74,3 +74,15 @@ for research and PhD applications.
 
 ## ✨ Author  
 Grace (spacey-g)
+---
+
+## 📸 Example Outputs
+
+### 🔹 Raw Light Curve
+![Raw Light Curve](docs/raw.png)
+
+### 🔹 BLS Periodogram
+![BLS Periodogram](docs/bls.png)
+
+### 🔹 Folded Transit Curve
+![Folded Transit](docs/folded.png)
