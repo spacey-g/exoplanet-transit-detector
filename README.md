@@ -1,4 +1,4 @@
-# 🪐 Exoplanet Transit Detector (BLS)
+#  Exoplanet Transit Detector (BLS)
 A Python tool to detect exoplanet transits in light curves using the **Box Least Squares (BLS)** algorithm.  
 Supports simulated or real TESS/Kepler data.
 
@@ -11,26 +11,23 @@ This project demonstrates:
 
 ---
 
-## 📁 Repository Structure
 
 
----
-
-## ⭐ What is BLS?
+##  What is BLS?
 
 **Box Least Squares (BLS)** is a period-search algorithm designed to detect  
 periodic dips in brightness caused by exoplanets crossing in front of their star.
 
 ---
 
-## 🛠 Installation
+##  Installation
 
 Install dependencies:
 
 
 ---
 
-## 🚀 Usage (Python Script)
+##  Usage (Python Script)
 
 
 This will:
@@ -42,14 +39,11 @@ This will:
 
 ---
 
-## 📓 Usage (Notebook)
-
-Open:
 
 
 ---
 
-## 📦 Included Sample Data
+##  Included Sample Data
 
 This repository includes a **simulated exoplanet transit light curve**:
 
@@ -65,18 +59,15 @@ Ideal for testing the BLS detector.
 
 ---
 
-## 🎯 Purpose
 
-This project is built to demonstrate astrophysics + coding skills  
-for research and PhD applications.
 
 ---
 
-## ✨ Author  
+##  Author  
 Grace (spacey-g)
 ---
 
-## 📸 Example Outputs
+##  Example Outputs
 
 ### 🔹 Raw Light Curve
 ![Raw Light Curve](docs/raw.png)
