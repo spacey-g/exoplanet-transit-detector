@@ -20,9 +20,7 @@ periodic dips in brightness caused by exoplanets crossing in front of their star
 
 ---
 
-##  Installation
 
-Install dependencies:
 
 
 ---
